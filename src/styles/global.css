@@ -1,0 +1,66 @@
+@import "@fontsource/ibm-plex-mono";
+@import "@fontsource/ibm-plex-mono/400.css";
+@import "@fontsource/ibm-plex-mono/500.css";
+@import "@fontsource/ibm-plex-mono/600.css";
+@import "@fontsource/ibm-plex-mono/700.css";
+
+:root {
+  color-scheme: dark light;
+}
+
+body {
+  font-family: "IBM Plex Mono", sans-serif;
+  background-color: #1e293b;
+  text-align: left;
+  color: #cbd5e1;
+  background-size: 100% 600px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  font-size: 20px;
+  line-height: 1.7;
+}
+main {
+  width: 720px;
+  min-height: 100vh;
+  max-width: calc(100% - 2em);
+  margin: auto;
+  padding: 3rem 0.5rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid black;
+}
+
+p {
+  margin-bottom: 2rem;
+}
+@media (max-width: 720px) {
+  body {
+    font-size: 17px;
+  }
+}
+
+.sr-only {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  /* IE6, IE7 - a 0 height clip, off to the bottom right of the visible 1px box */
+  clip: rect(1px 1px 1px 1px);
+  /* maybe deprecated but we need to support legacy browsers */
+  clip: rect(1px, 1px, 1px, 1px);
+  /* modern browsers, clip-path works inwards from each corner */
+  clip-path: inset(50%);
+  /* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
+  white-space: nowrap;
+}

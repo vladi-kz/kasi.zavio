@@ -1,0 +1,46 @@
+---
+import HeaderLink from './HeaderLink.astro';
+---
+
+<header class="sticky top-0 p-3 bg-slate-900 shadow-sm shadow-black">
+	<h1 class="font-bold">Kasi.Zavio</h1>
+	<nav>
+		<div class="internal-links">
+			<HeaderLink href="/">Home</HeaderLink>
+			<HeaderLink href="/blog">Blog</HeaderLink>
+			<HeaderLink href="/about">About</HeaderLink>
+		</div>
+		
+	</nav>
+</header>
+<style>
+	header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	h2 a,
+	h2 a.active {
+		text-decoration: none;
+	}
+	nav {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	nav a {
+		font-size: 1rem;
+		border-bottom: 4px solid transparent;
+		text-decoration: none;
+	}
+	nav a.active {
+		text-decoration: none;
+		border-bottom-color: #64748b;
+	}
+	.social-links,
+	.social-links a {
+		display: flex;
+	}
+
+</style>
