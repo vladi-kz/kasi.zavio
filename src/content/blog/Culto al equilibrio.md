@@ -9,20 +9,19 @@ Cada vez que me pongo a pensar en esto, llego siempre a la misma conclusión: es
 
 Demasiado caos sin control, y tenemos un desastre total; demasiado orden y control sin nada de caos o impredecibilidad, y el resultado es opaco, aburrido y sin alma.
 
-El equilibrio es de esas cosas que aportan algo de sentido al sinsentido de la existencia.
+Tu abanico de perspectivas puede verse absurdamente enriquecido con lo que defino como **la armonía en las dicotomías**. Si tuviera que usar una imagen para describirlo, usaría una imagen del yin y el yang, que según el taoísmo *son dos fuerzas fundamentales opuestas, pero complementarias e interconectadas, que se encuentran en todas las cosas.*
 
-Tu abanico de perspectivas puede verse absurdamente enriquecido con lo que defino como **la armonía en las dicotomías**.
 (Y si lo piensan bien, este principio es aplicable a casi cualquier ámbito de la vida)
 
 Probablemente en un futuro profundice más en mi defensa a los que apoyamos los puntos medios, la imparcialidad, la ecuanimidad, el equilibrio... que no necesariamente son sinónimos, pero entran en mi argumento sobre: 
 
 ***El equilibrio como forma de protesta ante la autolimitación a la que se suele sucumbir por presión social o por ese instinto ancestral que nos dice que no pertenecer a una manada pone en peligro nuestras vidas.*** 
 
-***Sucumbimos aceptando la filosofía del blanco y negro, bueno y malo, correcto e incorrecto... ignorando los grises o el espectro de posibilidades que existe entre el recorrido que separa a ambas caras de la moneda.***
+***Sucumbimos aceptando la filosofía del blanco o negro, bueno o malo, correcto o incorrecto... ignorando los grises y el espectro de posibilidades que existe entre el recorrido que separa a ambas caras de la moneda.***
 
 
 
-¿Por qué está tan demonizado cuestionárselo todo? ¿Por qué es tan raro el apartidismo y en casi cualquier situación lo normal es posicionarse en algún extremo? Suena a autolimitación.
+¿Por qué está tan demonizado cuestionárselo todo? ¿Por qué es tan raro el apartidismo y en casi cualquier situación lo normal es posicionarse en algún extremo? Todo eso suena a autolimitación.
 
 
 Posicionarse en un extremo u otro, ser de izquierdas o de derechas, apolíneos o dionisíacos, pragmáticos o idealistas, tener un algo favorito y algo a lo que sería impensable darle una oportunidad... 
