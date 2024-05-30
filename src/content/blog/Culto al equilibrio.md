@@ -11,9 +11,9 @@ Demasiado caos sin control, y tenemos un desastre total; demasiado orden y contr
 
 Tu abanico de perspectivas puede verse absurdamente enriquecido con lo que defino como **la armonía en las dicotomías**. Si tuviera que usar una imagen para describirlo, usaría una imagen del yin y el yang, que según el taoísmo *son dos fuerzas fundamentales opuestas, pero complementarias e interconectadas, que se encuentran en todas las cosas.*
 
-(Y si lo piensan bien, este principio es aplicable a casi cualquier ámbito de la vida)
+(Si lo piensan bien, notarán que, en efecto, este principio es aplicable a casi cualquier ámbito de la vida)
 
-Probablemente en un futuro profundice más en mi defensa a los que apoyamos los puntos medios, la imparcialidad, la ecuanimidad, el equilibrio... que no necesariamente son sinónimos, pero entran en mi argumento sobre: 
+Probablemente en un futuro profundice más en mi defensa a favor de los que apoyamos los puntos medios, la imparcialidad, la ecuanimidad, el equilibrio... que no necesariamente son sinónimos, pero entran en mi argumento sobre: 
 
 ***El equilibrio como forma de protesta ante la autolimitación a la que se suele sucumbir por presión social o por ese instinto ancestral que nos dice que no pertenecer a una manada pone en peligro nuestras vidas.*** 
 
