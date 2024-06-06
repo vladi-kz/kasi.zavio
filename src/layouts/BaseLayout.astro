@@ -1,0 +1,27 @@
+---
+import Head from "../components/Head.astro";
+import Header from "../components/Header.astro";
+import NavBar from "../components/NavBar.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+
+
+---
+
+<!doctype html>
+<html lang="es">
+    <Head title={SITE_TITLE} description={SITE_DESCRIPTION} />
+
+    <body>
+        <Header />
+        <NavBar/>
+
+        <slot/>
+
+        <Footer />
+    </body> <style is:global>
+        body {
+          @apply text-opacity-0;
+        }
+      </style>
+</html>
