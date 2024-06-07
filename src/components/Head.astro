@@ -11,69 +11,71 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = "https://kasi-zavio.pages.dev/favicon.svg" } = Astro.props;
+const {
+  title,
+  description,
+  image = "https://kasi-zavio.pages.dev/favicon.svg",
+} = Astro.props;
 ---
 
 <head>
   <!-- Global Metadata -->
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-<!-- Favicon improvisado hasta que cree el logo -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <!-- Favicon improvisado hasta que cree el logo -->
 
-<meta name="generator" content={Astro.generator} />
+  <meta name="generator" content={Astro.generator} />
 
-<!-- Font preloads -->
-<link
-  rel="preload"
-  as="font"
-  href="http://localhost:4321/node_modules/.pnpm/@fontsource+ibm-plex-mono@5.0.13/node_modules/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-400-normal.woff2"
-/>
+  <!-- Font preloads -->
+  <link
+    rel="preload"
+    as="font"
+    href="http://localhost:4321/node_modules/.pnpm/@fontsource+ibm-plex-mono@5.0.13/node_modules/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-400-normal.woff2"
+  />
 
-<link
-  rel="preload"
-  as="font"
-  href="http://localhost:4321/node_modules/.pnpm/@fontsource+ibm-plex-mono@5.0.13/node_modules/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-600-normal.woff2"
-/>
+  <link
+    rel="preload"
+    as="font"
+    href="http://localhost:4321/node_modules/.pnpm/@fontsource+ibm-plex-mono@5.0.13/node_modules/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-600-normal.woff2"
+  />
 
-<link
-  rel="preload"
-  as="font"
-  href="http://localhost:4321/node_modules/.pnpm/@fontsource+ibm-plex-mono@5.0.13/node_modules/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-700-normal.woff2"
-/>
+  <link
+    rel="preload"
+    as="font"
+    href="http://localhost:4321/node_modules/.pnpm/@fontsource+ibm-plex-mono@5.0.13/node_modules/@fontsource/ibm-plex-mono/files/ibm-plex-mono-latin-700-normal.woff2"
+  />
 
-<!-- Canonical URL -->
-<link rel="canonical" href={canonicalURL} />
+  <!-- Canonical URL -->
+  <link rel="canonical" href={canonicalURL} />
 
-<!-- Primary Meta Tags -->
-<title>{title}</title>
-<meta name="title" content={title} />
-<meta name="description" content={description} />
-<meta
-  name="keywords"
-  content="Kasi Zavio, Blog, Desarrollo web, libertad, fitness, artes marciales, bodybuilding, bitcoin, divagaciones, fiosofía, psicología, tecnología, programación, crecimiento personal"
-/>
-<meta name="author" content="Kasi Zavio" />
+  <!-- Primary Meta Tags -->
+  <title>{title}</title>
+  <meta name="title" content={title} />
+  <meta name="description" content={description} />
+  <meta
+    name="keywords"
+    content="Kasi Zavio, Blog, Desarrollo web, libertad, fitness, artes marciales, bodybuilding, bitcoin, divagaciones, fiosofía, psicología, tecnología, programación, crecimiento personal"
+  />
+  <meta name="author" content="Kasi Zavio" />
 
-<!-- Google site verification -->
-<meta
-  name="google-site-verification"
-  content="s5NsQdLobscm1PoYxwhlmFAbncElR1NQupb6grHUqPw"
-/>
+  <!-- Google site verification -->
+  <meta
+    name="google-site-verification"
+    content="s5NsQdLobscm1PoYxwhlmFAbncElR1NQupb6grHUqPw"
+  />
 
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website" />
-<meta property="og:url" content={Astro.url} />
-<meta property="og:title" content={title} />
-<meta property="og:description" content={description} />
-<meta property="og:image" content={image} />
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={Astro.url} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={image} />
 
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={Astro.url} />
-<meta property="twitter:title" content={title} />
-<meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={image} />
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content={Astro.url} />
+  <meta property="twitter:title" content={title} />
+  <meta property="twitter:description" content={description} />
+  <meta property="twitter:image" content={image} />
 </head>
-
-
