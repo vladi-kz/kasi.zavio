@@ -15,10 +15,10 @@ import HeaderLink from "./HeaderLink.astro";
   </div>
 
   <nav>
-    <div class="flex flex-col text-center text-2xl">
-      <HeaderLink href="/">Home</HeaderLink>
-      <HeaderLink href="/blog">Blog</HeaderLink>
-      <HeaderLink href="/about">About</HeaderLink>
+    <div class="flex flex-col text-center font-semibold text-2xl gap-3">
+      <a class="navBar-links" href="/">Home</a>
+      <a class="navBar-links" href="/blog">Blog</a>
+      <a class="navBar-links" href="/about">About</a>
     </div>
   </nav>
 
@@ -95,6 +95,12 @@ import HeaderLink from "./HeaderLink.astro";
 
   .navBar.active {
     @apply top-0;
+  }
+
+  /* NavBar-Links */
+
+  .navBar-links{
+    @apply bg-slate-700 py-1 px-10 shadow-sm shadow-black rounded-md active:bg-zinc-900 active:text-white;
   }
 
   /* Social links */
