@@ -59,8 +59,8 @@ Ni siquiera necesitas ir todos los días a entrenar o pasarte varias horas haci�
 
 ---
 
-<div class="bg-gray-900 p-5 rounded-xl mb-4 shadow-sm shadow-white">
-<p>Si te gusta la idea de entrenar, conseguir el cuerpo que quieres y tener una vida saludable, pero no quieres que se te vaya la vida en eso, contáctame a mi <a class="font-bold underline" target="_blank" href="https://t.me/hakaiz"> Telegram </a> o <a class="font-bold underline" target="_blank" href="mailto:vladimircf.pv@gmail.com"> Gmail </a></p>
+<div class="bg-gray-900 p-5 rounded-xl mb-4 shadow-sm shadow-black">
+<p>Si te gusta la idea de entrenar y conseguir el cuerpo que quieres sin que se te vaya la vida en ello, me puedes contactar a mi <a class="font-bold underline" target="_blank" href="https://t.me/hakaiz"> Telegram </a> o <a class="font-bold underline" target="_blank" href="mailto:vladimircf.pv@gmail.com"> Gmail </a></p>
     
-<p>Te haré una breve introducción al entrenamiento inteligente, te planificaré una rutina y te enseñaré a aplicar el <i>Principio de Pareto</i> al fitness, para que entrenes de forma eficiente y veas resultados positivos sin dejar de ser productivo en tu día a día.</p>
+<p>Te haré una breve introducción al entrenamiento inteligente, te planificaré una rutina y te enseñaré a aplicar el <i>Principio de Pareto</i> al fitness, para que entrenes de forma eficiente y veas resultados sin tener que descuidar el resto de tu día a día.</p>
 </div>
