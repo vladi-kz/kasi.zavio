@@ -1,8 +1,19 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import NavBar from '../components/NavBar.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
+  <!doctype html>
 
-    <BaseLayout>
+  <html lang="es">
+    <head>
+     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    </head>
+    <body>
+      <Header />
+      <NavBar />
       <main>
         <h2 class="text-2xl font-bold pb-6">
           Hola panita
@@ -27,7 +38,10 @@ import BaseLayout from "../layouts/BaseLayout.astro";
           </i>
         </p>
       </main>
+
+      <Footer />
+    </body>
+  </html>
     
-    </BaseLayout>
-    
+      
     
