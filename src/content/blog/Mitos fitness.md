@@ -22,12 +22,12 @@ Lo que necesitas para bajar la panza, es disminuir tu porcentaje general de gras
     
 <li class="my-6">-Ejercicios de fuerza en el gym (o, si sabes como, en casa)</li>
     
-<li>-Algo de cardio a la semana (esto es relativo, pero después explicaré por qué pongo el cardio en el último lugar)</li>
+<li>-Algo de cardio a la semana. (Al contrario de lo que se cree, no es estrictamente necesario hacer cardio para quemar grasa, aunque no deja de ser recomendable y muy bueno para tu salud)</li>
 </ul>
 
 <br/>
 
-Luego de haber disminuido el porcentaje de grasa, empezarás a ver los músculos del abdomen, y ya en ese punto, si te apetece tener un sixpack más marcado, puedes ponerle ganas al entrenamiento de abs para hipertrofiar los músculos de esa zona. Pero recuerda: hacer abdominales ≠ quemar grasa en la panza
+Luego de haber disminuido el porcentaje de grasa, empezarás a ver los músculos del abdomen, y ya en ese punto, si te va lo de estar muy definido/a y te apetece tener un sixpack más marcado, puedes ponerle ganas al entrenamiento de abs para hipertrofiar los músculos de esa zona; pero recuerda: hacer abdominales ≠ quemar grasa en la panza.
 
 PD: Hacer abs teniendo panza tampoco te pone la grasa dura como dicen xDD
 
